@@ -64,8 +64,8 @@ h1,h2,h3,h4,h5,h6
 }
 .site-header
 {
-	background:rgba(255,255,255,0.5);
-	padding:24px 0;
+	background:rgba(0,0,0,0.8);
+	padding:24px 0 24px;
 }
 .text-slider .subtitle
 {
