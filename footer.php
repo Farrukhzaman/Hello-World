@@ -16,7 +16,7 @@
     <div class="mappanel">
     	<img src="<?php bloginfo('stylesheet_directory'); ?>/images/map-marker.png" class="mapmarker"/>
         <div class="addresspane">
-        	<h2>Our Coordinates </h2>
+        	<h2>Our Coordinates2 </h2>
             <h4>Kings Cross</h4>
             144 York Way<br/>
 Kings Cross<br/>
